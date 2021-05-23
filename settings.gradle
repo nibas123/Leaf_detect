@@ -1,0 +1,2 @@
+rootProject.name='LeafDetection'
+include ':app'
